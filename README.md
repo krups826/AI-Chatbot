@@ -189,21 +189,6 @@ mvn spring-boot:run
 ```
 
 ---
-
-# 🔮 Future Enhancements
-
-- Vector Embeddings
-- PGVector Integration
-- RAG (Retrieval-Augmented Generation)
-- Multi-Document Support
-- AI Recommendation System
-- WebSocket Real-Time Chat
-- Docker Deployment
-- CI/CD Pipeline
-- Cloud Deployment (AWS / Render / Railway)
-
----
-
 # 👨‍💻 Developer
 
 **Krupa Nirmal**
